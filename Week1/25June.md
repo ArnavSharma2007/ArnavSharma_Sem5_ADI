@@ -18,7 +18,7 @@ This is because when you use New you create a brand new object, which otherwise 
 Collection/Collections:
 
 Collection - Collection framework\
-Collections - Utility class\
+Collections - Utility class
 
 Collection sub-parts\
 List, Set, Queue\
